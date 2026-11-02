@@ -592,5 +592,11 @@ The author's personal channel: [t.me/LLM_PoJia](https://t.me/LLM_PoJia). Notes a
 
 ---
 
+## Author
+
+Fork author: [taoizhuhu](https://github.com/taoizhuhu). The original project is by [YuJunZhiXue](https://github.com/YuJunZhiXue/dsh-purge) — see [Attribution required](#attribution-required).
+
+---
+
 Thanks to the [LINUX DO](https://linux.do) community
 
